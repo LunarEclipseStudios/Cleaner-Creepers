@@ -1,21 +1,22 @@
-# ![image](https://user-images.githubusercontent.com/26262092/193725865-cfab81f6-2238-4ac1-9952-85c44eaf0726.png)
+# ![text](https://user-images.githubusercontent.com/26262092/198693754-3551fd75-fd8e-466c-98a2-5f3badf02af8.png)
 ## Resource Pack for Minecraft: Java Edition
 
 
-Astra's Amazing Foxes is a small Minecraft resourcepack that changes the appearence of Minecraft foxes to have a slightly cuter appearence.
-![image](https://user-images.githubusercontent.com/26262092/193725543-e3664ea0-2bee-4fd1-b18c-46d2adfc11a0.png)
-![image](https://user-images.githubusercontent.com/26262092/193725548-261df20c-c5be-48da-8c22-2bbc98e3854f.png)
-![image](https://user-images.githubusercontent.com/26262092/193725558-7b6d939b-254b-4f8d-9a22-a620c43b0543.png)
-![image](https://user-images.githubusercontent.com/26262092/193725567-edeef391-1a5d-422b-af2a-cb5b33d2a738.png)
+Creeperz' Cleaner Creepers is a small Minecraft resourcepack that changes the appearance of Minecraft creepers to have a slightly cleaner appearance.
+![1](https://user-images.githubusercontent.com/26262092/198693881-8d169f48-e93d-4f09-916e-53286928ac7a.png)
+![2](https://user-images.githubusercontent.com/26262092/198693894-04648a3c-c2e0-4c14-a57b-39e0cc7e28b2.png)
+![3](https://user-images.githubusercontent.com/26262092/198693905-f3a6e519-2de1-4cd6-8837-2f1550eba4f8.png)
+![4](https://user-images.githubusercontent.com/26262092/198693912-d855aace-c0ed-4729-a99f-e6fa7a8d618a.png)
+
 
 
 ## Installation
 
 #### Stable releases
 
-![GitHub release](https://img.shields.io/github/v/release/LunarEclipseStudios/Astras-Amazing-Foxes)
+![GitHub release](https://img.shields.io/github/v/release/LunarEclipseStudios/Creeperz-Cleaner-Creepers)
 
-The latest releases of Astra's Amazing Foxes is published to our [GitHub release](https://github.com/LunarEclipseStudios/Astras-Amazing-Foxes/releases) pages. 
+The latest releases of Creeperz' Cleaner Creepers is published to our [GitHub release](https://github.com/LunarEclipseStudios/Creeperz-Cleaner-Creepers/releases) pages. 
 Releases are considered to be **suitable for general use**, but they are not guaranteed to be free of bugs and other issues.
 
 ---
