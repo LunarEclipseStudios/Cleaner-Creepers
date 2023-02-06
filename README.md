@@ -17,7 +17,7 @@ Creeperz' Cleaner Creepers is a small Minecraft resourcepack that changes the ap
 ![GitHub release](https://img.shields.io/github/v/release/LunarEclipseStudios/Creeperz-Cleaner-Creepers)
 
 The latest releases of Creeperz' Cleaner Creepers is published to our [GitHub release](https://github.com/LunarEclipseStudios/Creeperz-Cleaner-Creepers/releases) pages. 
-Releases are considered to be **suitable for general use**, but they are not guaranteed to be free of bugs and other issues.
+Releases are considered to be **suitable for general use**
 
 ---
 
