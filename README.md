@@ -1,8 +1,9 @@
 # ![text](https://user-images.githubusercontent.com/26262092/198693754-3551fd75-fd8e-466c-98a2-5f3badf02af8.png)
-## Resource Pack for Minecraft: Java Edition
 
+## **Resource Pack for Minecraft: Java Edition**
 
 Creeperz' Cleaner Creepers is a small Minecraft resourcepack that changes the appearance of Minecraft creepers to have a slightly cleaner appearance.
+
 ![1](https://user-images.githubusercontent.com/26262092/198693881-8d169f48-e93d-4f09-916e-53286928ac7a.png)
 ![2](https://user-images.githubusercontent.com/26262092/198693894-04648a3c-c2e0-4c14-a57b-39e0cc7e28b2.png)
 ![3](https://user-images.githubusercontent.com/26262092/198693905-f3a6e519-2de1-4cd6-8837-2f1550eba4f8.png)
@@ -10,7 +11,7 @@ Creeperz' Cleaner Creepers is a small Minecraft resourcepack that changes the ap
 
 
 
-## Installation
+## **Installation**
 
 #### Stable releases
 
@@ -21,7 +22,7 @@ Releases are considered to be **suitable for general use**
 
 ---
 
-### Community
+## **Community**
 [![Discord chat](https://img.shields.io/badge/chat%20on-discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/RmMtqxJJgH)
 
 We have an [official Discord community.](https://discord.gg/RmMtqxJJgH) By joining, you can:
@@ -31,6 +32,12 @@ We have an [official Discord community.](https://discord.gg/RmMtqxJJgH) By joini
 
 ---
 
-### Website
+## **License**
+
+This project is licensed under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license. Feel free to use and modify the mod/datapack as you see fit, as long as you give credit to the original authors, do not use it for commercial purposes, and share any modifications under the same license. See the [LICENSE](https://github.com/LunarEclipseStudios/Creeperz-Cleaner-Creepers/blob/main/LICENSE.md) file for more details.
+
+---
+
+## **Website**
 Feel free to check out our website!
 https://lunareclipse.studio
