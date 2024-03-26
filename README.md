@@ -2,7 +2,7 @@
 
 ## **Resource Pack for Minecraft: Java Edition**
 
-Creeperz' Cleaner Creepers is a small Minecraft resourcepack that changes the appearance of Minecraft creepers to have a slightly cleaner appearance.
+Cleaner Creepers is a small Minecraft resourcepack that changes the appearance of Minecraft creepers to have a slightly cleaner appearance.
 
 ![1](https://user-images.githubusercontent.com/26262092/198693881-8d169f48-e93d-4f09-916e-53286928ac7a.png)
 ![2](https://user-images.githubusercontent.com/26262092/198693894-04648a3c-c2e0-4c14-a57b-39e0cc7e28b2.png)
@@ -15,9 +15,9 @@ Creeperz' Cleaner Creepers is a small Minecraft resourcepack that changes the ap
 
 #### Stable releases
 
-![GitHub release](https://img.shields.io/github/v/release/LunarEclipseStudios/Creeperz-Cleaner-Creepers)
+![GitHub release](https://img.shields.io/github/v/release/LunarEclipseStudios/Cleaner-Creepers)
 
-The latest releases of Creeperz' Cleaner Creepers is published to our [GitHub release](https://github.com/LunarEclipseStudios/Creeperz-Cleaner-Creepers/releases) pages. 
+The latest releases of Cleaner Creepers is published to our [GitHub release](https://github.com/LunarEclipseStudios/Cleaner-Creepers/releases) pages. 
 Releases are considered to be **suitable for general use**
 
 ---
@@ -34,7 +34,7 @@ We have an [official Discord community.](https://discord.gg/RmMtqxJJgH) By joini
 
 ## **License**
 
-This project is licensed under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license. Feel free to use and modify the mod/datapack as you see fit, as long as you give credit to the original authors, do not use it for commercial purposes, and share any modifications under the same license. See the [LICENSE](https://github.com/LunarEclipseStudios/Creeperz-Cleaner-Creepers/blob/main/LICENSE.md) file for more details.
+This project is licensed under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license. Feel free to use and modify the mod/datapack as you see fit, as long as you give credit to the original authors, do not use it for commercial purposes, and share any modifications under the same license. See the [LICENSE](https://github.com/LunarEclipseStudios/Cleaner-Creepers/blob/main/LICENSE.md) file for more details.
 
 ---
 
