@@ -1,4 +1,4 @@
-# ![text]([https://user-images.githubusercontent.com/26262092/198693754-3551fd75-fd8e-466c-98a2-5f3badf02af8.png](https://cdn.lunareclipse.studio/img/projects/cleaner-creepers/banner-text.webp?v=3))
+# ![text](https://cdn.lunareclipse.studio/img/projects/cleaner-creepers/banner-text.webp?v=3)
 
 ## **Resource Pack for Minecraft: Java Edition**
 
